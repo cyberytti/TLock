@@ -7,6 +7,8 @@ sleep 1
 echo "file moved"
 sleep 1
 
+cd 
+
 cd ../usr/etc
 rm  -rf termux-login.sh
 sleep 1
