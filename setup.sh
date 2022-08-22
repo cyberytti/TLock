@@ -25,7 +25,9 @@ sleep 1
 clear
 cd 
  
-rm -rf TLocik
+rm -rf TLock
+
+echo " Final file removed"
 cd 
 clear
 echo "restart your Termux"
