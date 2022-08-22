@@ -25,4 +25,5 @@ clear
 echo "Restart your Termux"
 rm -rf TLocik
 cd 
+clear
 
