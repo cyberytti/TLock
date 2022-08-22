@@ -22,8 +22,7 @@ sleep 1
 
 clear
  
-echo "Restart your Termux"
 rm -rf TLocik
 cd 
 clear
-
+echo "restart your Termux"
