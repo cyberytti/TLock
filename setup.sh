@@ -15,7 +15,6 @@ sleep 1
 
 cd 
 cd TLock
-cd scripts
 mv termux-login.sh /data/data/com.termux/files/usr/etc
 sleep 1
 echo "final file moved"
