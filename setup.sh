@@ -23,6 +23,7 @@ echo "final file moved"
 sleep 1
 
 clear
+cd 
  
 rm -rf TLocik
 cd 
